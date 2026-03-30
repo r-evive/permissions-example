@@ -6,6 +6,12 @@ This project is a **simple example of a permissions system** in a Next.js applic
 
 ---
 
+## 🌍 Demo
+
+https://permissions-example.vercel.app
+
+---
+
 ## 🎯 Purpose
 
 - Show how permissions can control UI and navigation
